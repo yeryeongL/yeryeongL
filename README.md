@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+🌱 I’m currently learning ML,AI+Security
+📫 How to reach me: yeryeongl86@gmail.com
 <!--
 **yeryeongL/yeryeongL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
